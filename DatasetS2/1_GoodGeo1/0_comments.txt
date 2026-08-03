@@ -1,0 +1,7 @@
+all 0.3 P/Pcr have lights off, all 0.5 P/Pcr have lights on
+
+w2200_g17 is actually w2100
+
+the second w2000_g25 is the good one
+
+the file 6500_ can be ignored

@@ -1,0 +1,26 @@
+
+\
+
+geo 5 with lights off
+
+geo 6 with lights on
+
+geo 7 lights on
+
+geo 7 250 g 18 third one is good
+
+geo 7 w 1650 g 16 last one is good one
+
+geo 8 lights on
+
+geo 8 1000 g 21 second one is good
+
+geo 9 lights on
+
+geo 9 w 700 g 19 second one is good
+
+geo 9 w 1450 g 23 second one is good
+
+geo 9 w 1950 g 25 second one is good
+
+geo 9 w600 g 13 second one is good
