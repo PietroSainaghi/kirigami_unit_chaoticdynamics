@@ -1,0 +1,7 @@
+for an amplitude of 0.3, the frequencies between 250 and 550 are misnamed, with the w missing before the frequency value
+
+for some time series with a value of 0.3, the ones labelled as VG10 are part of tests that were performed after the data collection
+
+some time series also include GoodGeo3 files, these are also part of tests
+
+w2150 and g26 was not collected by mistake
